@@ -19,5 +19,5 @@ int main() {
     scanf("%d", &n);
     int result = sumOfSeries(n);
     printf("%d", result);
-    return0;
-    }
+    return 0;
+}
